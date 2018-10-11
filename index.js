@@ -1,6 +1,4 @@
 // write your code below!
-var name = "Susan"
-var height = 39
-var message = `is ${name} is ${height} inches tall`
+var name = 
 
 module.exports = {name, height, message}
